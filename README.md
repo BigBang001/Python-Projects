@@ -7,6 +7,8 @@ Welcome to the Python Projects repository! This repository contains various Pyth
 
 1. [Project 1: Simple Text Editor](./simple-text-editor)
    - A basic text editor created using Python and Tkinter.
+2. [Project 2: ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control](./shlokmudra)
+   - A Quiz Application made using OpenCV library and uses gesture to control the selection of options.
 
 
 ## How to Use
